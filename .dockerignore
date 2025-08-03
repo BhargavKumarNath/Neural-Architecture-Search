@@ -1,0 +1,13 @@
+.git
+.gitignore
+
+Dockerfile
+.dockerignore
+
+.venv
+__pycache__
+*.pyc
+
+data/
+
+ga_test_checkpoint/
